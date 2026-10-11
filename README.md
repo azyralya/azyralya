@@ -14,5 +14,5 @@
 - [Project name](link-to-your-repository): one sentence about it
 
 ## Contact
-- LinkedIn: [your profile link]
+- LinkedIn: (https://www.linkedin.com/in/azyra-isham-935b06413)
 - Email: nurazyraalya@gmail.com
