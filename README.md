@@ -1,4 +1,4 @@
-# Hi, I'm Nur Azyra Alya 
+# Hi, I'm Nur Azyra Alya binti Md Isham
 
 A Computer Science student at UiTM. Interested in software engineering and AI.
 
@@ -8,10 +8,10 @@ A Computer Science student at UiTM. Interested in software engineering and AI.
 - My FYP area: sentiment analysis, machine learning
 
 ## Skills and tools
-Python, Git, SQL, Java, C++
+Python, Git, SQL, Java, C++, HTML
 
 ## Projects
-- [Project name](link-to-your-repository): one sentence about it
+- [Project name]((https://github.com/azyralya/Quran-Text-Authentication-System)): This project is my FYP project about Quranic Text Authentication System
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/azyra-isham-935b06413
