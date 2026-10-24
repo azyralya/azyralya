@@ -11,7 +11,7 @@ A Computer Science student at UiTM. Interested in software engineering and AI.
 Python, Git, SQL, Java, C++, HTML
 
 ## Projects
-- [Project name](https://github.com/azyralya/Quran-Text-Authentication-System): This project is my FYP project about Quranic Text Authentication System
+- [Image-Based Quranic Text Authentication System](https://github.com/azyralya/Quran-Text-Authentication-System): This project is my FYP project about Quranic Text Authentication System
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/azyra-isham-935b06413
